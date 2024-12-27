@@ -1,5 +1,5 @@
-#V-rification-des-expressions
-##Description
+# V-rification-des-expressions
+## Description
 
 La vérification des expressions mathématiques bien formées ou pas. Ce projet vise à vérifier si une expression mathématique est correctement formée en utilisant le langage de programmation C.
 Table des matières
